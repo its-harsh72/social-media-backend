@@ -1,4 +1,4 @@
-Backend-focused social media platform
+## Backend-focused social media platform 
 
 Features:
 - User authentication
